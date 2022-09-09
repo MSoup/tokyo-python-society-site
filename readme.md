@@ -1,4 +1,4 @@
-# Tokyo Python Society Society
+# Tokyo Python Society Site
 
 ## Branch Information
 
